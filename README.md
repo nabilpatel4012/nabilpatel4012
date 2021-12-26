@@ -74,4 +74,4 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nabilpatel4012">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/nabilpatel4012?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/nabilpatel4012?tab=followers"><img src="https://img.shields.io/github/followers/nabilpatel4012?label=Followers&style=social" alt="GitHub Badge"></a>
