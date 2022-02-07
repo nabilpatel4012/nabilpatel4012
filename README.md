@@ -1,4 +1,4 @@
-<p align = "center"> <a href="#"><img width="auto" height="auto" src="https://cdn-icons-png.flaticon.com/512/1803/1803671.png" height="175px"/></a>
+<!-- <p align = "center"> <a href="#"><img width="auto" height="auto" src="https://cdn-icons-png.flaticon.com/512/1803/1803671.png" height="175px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nabil Patel</h1>
 <h3 align="center">I'm a passionate in DevOps Android Development and Linux.</h3>
