@@ -1,4 +1,3 @@
-![IMG](https://user-images.githubusercontent.com/80565100/152958021-dd64e64d-1c87-4d51-9632-ba405e468dcc.png)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Nabil Patel</h1>
 <h3 align="center">I'm a passionate in DevOps Android Development and Linux.</h3>
 
