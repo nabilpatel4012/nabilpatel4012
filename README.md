@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Nabil Patel</h1>
-<h3 align="center">I'm a passionate in DevOps Android Development and Linux.</h3>
+<h3 align="center">Passionate in DevOps, Kinda Android Developer, Die Hard Linux Enthusiast and an Intermediate Programmer.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -16,7 +16,10 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="left">
+    <a href="https://www.linux.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/linux--v2.png"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/bash.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>    
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.learn-c.org/" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -30,11 +33,6 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 width="50" height="50"
 viewBox="0 0 172 172"
 style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#1abc9c"><path d="M114.66667,11.46667c-3.1648,0 -5.73333,2.56853 -5.73333,5.73333v57.33333c0,3.1648 2.56853,5.73333 5.73333,5.73333h17.2v11.46667h-17.2c-3.1648,0 -5.73333,2.56853 -5.73333,5.73333v57.33333c0,3.1648 2.56853,5.73333 5.73333,5.73333h45.86667c3.1648,0 5.73333,-2.56853 5.73333,-5.73333v-57.33333c0,-3.1648 -2.56853,-5.73333 -5.73333,-5.73333h-17.2v-11.46667h17.2c3.1648,0 5.73333,-2.56853 5.73333,-5.73333v-57.33333c0,-3.1648 -2.56853,-5.73333 -5.73333,-5.73333zM63.06667,22.93333c-22.13067,0 -31.24219,14.33333 -31.24219,31.53333c0,5.79067 2.74349,11.63464 2.74349,11.63464c-1.14667,0.63067 -2.9782,2.70362 -2.51953,6.31562c0.86,6.708 3.78669,8.428 5.62135,8.6c0.688,6.24933 7.39152,14.32886 9.74219,15.47552v10.54844c-5.21733,15.76667 -41.67865,5.21778 -41.67865,42.02578h91.73333v-30.39114c-8.48533,-2.98133 -16.50931,-4.8693 -18.74531,-11.63464v-10.54844c2.35067,-1.14667 9.05419,-9.22619 9.74219,-15.47552c1.83467,-0.172 4.76135,-1.892 5.62135,-8.6c0.45867,-3.612 -1.37286,-5.68496 -2.51953,-6.31562c0,0 2.74349,-5.27064 2.74349,-11.63464c0,-12.728 -4.9235,-23.61641 -15.5875,-23.61641c0,0 -3.72936,-7.91693 -15.65469,-7.91693zM126.13333,22.93333h22.93333c3.1648,0 5.73333,2.56853 5.73333,5.73333c0,3.1648 -2.56853,5.73333 -5.73333,5.73333h-22.93333c-3.1648,0 -5.73333,-2.56853 -5.73333,-5.73333c0,-3.1648 2.56853,-5.73333 5.73333,-5.73333zM126.13333,45.86667h22.93333c3.1648,0 5.73333,2.56853 5.73333,5.73333c0,3.1648 -2.56853,5.73333 -5.73333,5.73333h-22.93333c-3.1648,0 -5.73333,-2.56853 -5.73333,-5.73333c0,-3.1648 2.56853,-5.73333 5.73333,-5.73333zM126.13333,103.2h11.46667h11.46667c3.1648,0 5.73333,2.56853 5.73333,5.73333c0,3.1648 -2.56853,5.73333 -5.73333,5.73333h-22.93333c-3.1648,0 -5.73333,-2.56853 -5.73333,-5.73333c0,-3.1648 2.56853,-5.73333 5.73333,-5.73333zM126.13333,126.13333h22.93333c3.1648,0 5.73333,2.56853 5.73333,5.73333c0,3.1648 -2.56853,5.73333 -5.73333,5.73333h-22.93333c-3.1648,0 -5.73333,-2.56853 -5.73333,-5.73333c0,-3.1648 2.56853,-5.73333 5.73333,-5.73333z"></path></g></g></svg>
-
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
