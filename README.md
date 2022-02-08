@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[ProZone- Project Guidance App](https://github.com/nabilpatel4012/ProzoneEarlyAccess)**
 
-- 🌱 I’m currently learning **Linux and Java Programming.**
+- 🌱 I’m currently learning **Linux** and **Java Programming.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
