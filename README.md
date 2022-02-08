@@ -4,17 +4,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ProZone- Project Guidance App](https://github.com/nabilpatel4012/ProzoneEarlyAccess)**
+- Working on **[ProZone- Project Guidance App](https://github.com/nabilpatel4012/ProzoneEarlyAccess)**
 
-- 🌱 I’m currently learning **Linux** and **Java Programming.**
+- Currently learning **Linux** and **Java Programming.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- Eagerly looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **nabilpatel4012@gmail.com**
+- Reach me here: **nabilpatel4012@gmail.com**
 
-- ⚡ Fun fact **I regularly try different linux distros and I love that.**
+- Fun fact **I regularly try different linux distros and I love that.**
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
     <a href="https://www.linux.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/linux--v2.png"/> </a>
