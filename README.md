@@ -16,7 +16,7 @@
 
 ## Languages and Tools:
 
-<p align="left">
+<p align="Center">
     <a href="https://www.linux.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/linux--v2.png"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/bash.png"/> </a>
@@ -41,11 +41,12 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 </p>
 
 ## 📊 My Github Stats
-
+<p align="center">
   <br/>
     <a href="https://github.com/nabilpatel4012/github-readme-stats"><img alt="Nabil Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nabilpatel4012&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/nabilpatel4012/github-readme-stats"><img alt="Nabil Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpatel4012&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+        </p>    
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
