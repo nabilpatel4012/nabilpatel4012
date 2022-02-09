@@ -58,6 +58,15 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <br/>
 <br/>
 
+____      
+        
+``` c
+        if(repos_areAwesome){
+        // Thanks in Advance: :)
+        starTheRepo();
+        }
+```   
+#### Leave a ⭐ from [here](https://github.com/nabilpatel4012) if you like any repo or wanna support me 😁        
 ## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 <p align="left">
 
@@ -67,17 +76,10 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 
 </p>
 
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nabilpatel4012">
 </a>
 <a href="https://github.com/nabilpatel4012?tab=followers"><img src="https://img.shields.io/github/followers/nabilpatel4012?label=Followers&style=social" alt="GitHub Badge"></a>
-
-____      
-        
-``` c
-        if(repos_areAwesome){
-        // Thanks in Advance: :)
-        starTheRepo();
-        }
-```        
+     
