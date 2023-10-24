@@ -1,13 +1,13 @@
 [![@nabilpatel's Holopin board](https://holopin.io/api/user/board?user=nabilpatel)](https://holopin.io/@nabilpatel)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Nabil Patel</h1>
-<h3 align="center">Passionate in DevOps, Kinda Android Developer, Die Hard Linux Enthusiast and an Intermediate Programmer.</h3>
+<h3 align="center">Passionate in Linux, Full Stack Web Developer, Die Hard Linux Enthusiast and an Intermediate Programmer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- Working on **[ProZone- Project Guidance App](https://github.com/nabilpatel4012/ProzoneEarlyAccess)**
+- Working on **[cnx-backend]([https://github.com/nabilpatel4012/ProzoneEarlyAccess](https://github.com/nexpictora-pvt-ltd/cnx-backend))** and **[crm_tkt-tool](https://github.com/nexpictora-pvt-ltd/crm-tkt_tool)** 
 
-- Currently learning **Linux** and **Java Programming.**
+- Currently learning **Golang** and **Backend Development**
 
 - Eagerly looking to collaborate on **OpenSource Projects**
 
