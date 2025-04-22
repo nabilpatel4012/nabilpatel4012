@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- Working on **[cnx-backend](https://github.com/nexpictora-pvt-ltd/cnx-backend)** and **[crm_tkt-tool](https://github.com/nexpictora-pvt-ltd/crm-tkt_tool)** 
+- Working on **[Smaapi](https://github.com/nabilpatel4012/smaapi)** 
 
 - Currently learning **Golang** and **Backend Development**
 
