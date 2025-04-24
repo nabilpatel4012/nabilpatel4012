@@ -72,7 +72,6 @@ ____
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nabil-jalil-patel-38a81b20b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/NabilPatel4012"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/nabil_patel_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
