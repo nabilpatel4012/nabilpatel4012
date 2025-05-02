@@ -3,28 +3,32 @@
 <h3 align="center">Passionate in Linux, Full Stack Web Developer, Open Source Enthusiast and an Intermediate Programmer.</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
-- Working on **[Smaapi](https://github.com/nabilpatel4012/smaapi)** 
+- Building **[Smaapi](https://github.com/nabilpatel4012/smaapi)** 
 
-- Currently learning **Golang** and **Backend Development**
+- Learning to scale projects and make audience
 
-- Eagerly looking to collaborate on **OpenSource Projects**
+- Going towards **1M$**
 
-- Reach me here: **nabilpatel4012@gmail.com**
-
-- Fun fact **I regularly try different linux distros and I love that.**
+- For collaboration or any queries reach me out here: **nabilpatel4012@gmail.com**
 
 ## Languages and Tools:
 
 <p align="Center">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/50/angularjs.png" alt="angularjs"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/50/nodejs.png" alt="nodejs"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/50/nestjs.png" alt="nestjs"/>
+    <img width="50" height="50" src="https://img.icons8.com/office/50/express-js.png" alt="express-js"/>
     <img width="50" height="50" src="https://img.icons8.com/officel/50/react.png" alt="react"/>
-    <img width="50" height="50" src="https://img.icons8.com/color/50/redux.png" alt="redux"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/50/mongo-db.png" alt="mongo-db"/>
+    <img width="50" height="50" src="https://img.icons8.com/fluency/50/docker.png" alt="docker"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/50/redux.png" alt="redux"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
     <a href="https://www.linux.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/linux--v2.png"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/bash.png"/> </a>
@@ -45,35 +49,13 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://readme-streak.nabilpatel.xyz?user=nabilpatel4012&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
-
-## 📊 My Github Stats
-<p align="center">
-  <br/>
-    <a href="https://github.com/nabilpatel4012/github-readme-stats"><img alt="Nabil Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nabilpatel4012&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/nabilpatel4012/github-readme-stats"><img alt="Nabil Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpatel4012&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-        </p>    
+   
 <br/>
 <br/>
-
-<br/>
-<br/>
-
-____      
-        
-``` c
-        if(repos_areAwesome){
-        // Thanks in Advance: :)
-        starTheRepo();
-        }
-```   
-#### Leave a ⭐ from [here](https://github.com/nabilpatel4012) if you like any repo or wanna support me 😁        
+      
 ## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/nabil-jalil-patel-38a81b20b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/nabil_patel_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
 
 
